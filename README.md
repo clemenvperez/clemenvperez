@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
  
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>  I’m interested in Recruiting, Full Stack and working as an IT Programmer </h4>
-<h5>  I’m currently learning FullStack, JS, CSS, HTML and also Devops
-<h6>  I’m looking to collaborate on IT companies taht are looking for Junior grade roles so I can keep learning.
+<h4>  I’m currently learning FullStack, JS, CSS, HTML and also Devops
+<h4>  I’m looking to collaborate on IT companies taht are looking for Junior grade roles so I can keep learning.
 <h3>💼 IT Recruiter at <a href="https://www.linkedin.com/in/clementina-perez-26b559263/">Clementina Perez</a></h3>
 
 
