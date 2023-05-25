@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>:fire: Passionate programmer | 🚀 Experience in ERP software.</h4>
-<h3>💼 IT Recruiter at <a href="https://www.linkedin.com/in/clementina-perez-26b559263/">Ginni System Ltd - Ginesys</a></h3>
+<h3>💼 IT Recruiter at <a href="https://www.linkedin.com/in/clementina-perez-26b559263/">Clementina Perez - Ginesys</a></h3>
 
 ## :envelope: Let's talk
 [![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
