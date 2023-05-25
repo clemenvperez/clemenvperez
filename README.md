@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hey <img src="https://media.giphy.com/media/fwhHPYbDRaaVOdiejc/giphy.gif" width="10px" height="40px">, I'm Clementina </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
+# Hey width="10px" height="40px">, I'm Clementina </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
  
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>  I’m interested in Recruiting, Full Stack and working as an IT Programmer </h4>
