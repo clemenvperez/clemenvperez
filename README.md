@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hey, I'm Clementina <img aling='right' src= "https://media.giphy.com/media/5pht3pdGxOthT7agfe/giphy.gif" width="50">
+# Hey, I'm Clementina <img aling='right' src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM1MzQ3NGQ2NmU5NzFjN2Y0YTg1MDRlYzNlYWY1ODFmNWFjYTQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eYrDqRKp4XjmdUYLAk/giphy.gif" width="50">
  
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcyZGFjMjc1NTY2NTRkYmU3MjZjYmRjOGFiNzYyYzc5OWM2OWZhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YRZc9k9670YND39Jp3/giphy.gif" width="300">
 <h4> ✨ I’m interested in Recruiting, Full Stack and working as an IT Programmer </h4>
