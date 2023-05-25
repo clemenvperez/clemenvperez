@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-#   <img src=" https://media.giphy.com/media/fwhHPYbDRaaVOdiejc/giphy.gif " width="10px" height="40px">, I'm Clementina </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
+#   <img src="https://media.giphy.com/media/fwhHPYbDRaaVOdiejc/giphy.gif" width="10px" height="40px">, I'm Clementina </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
  
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>:fire: Passionate programmer | 🚀 Experience in ERP software.</h4>
