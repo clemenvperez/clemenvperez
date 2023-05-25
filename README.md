@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## :envelope: Let's talk
  
 [![Gmail Badge](https://img.shields.io/badge/-clemenvperez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achyutghosh06@gmail.com)](mailto:clemenvperez@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clementina-perez-26b559263/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clementina-perez/)
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/clemenvperez/)
 
 ## :computer: Currently playing with 
