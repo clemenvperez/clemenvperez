@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hey, I'm Clementina 🍓 </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
  
-<img align='right' src="https://pin.it/6UUUYyv" width="300">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcyZGFjMjc1NTY2NTRkYmU3MjZjYmRjOGFiNzYyYzc5OWM2OWZhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YRZc9k9670YND39Jp3/giphy.gif" width="300">
 <h4> ✨ I’m interested in Recruiting, Full Stack and working as an IT Programmer </h4>
 <h4> ✨I’m currently learning FullStack, JS, CSS, HTML and also Devops
 <h4> ✨I’m looking to collaborate on IT companies taht are looking for Junior grade roles so I can keep learning.
