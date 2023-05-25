@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hey, I'm Clementina </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
+# Hey, I'm Clementina 🍓 </a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
  
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4> ✨ I’m interested in Recruiting, Full Stack and working as an IT Programmer </h4>
-<h4> ✨ I’m currently learning FullStack, JS, CSS, HTML and also Devops
+<h4> ✨I’m currently learning FullStack, JS, CSS, HTML and also Devops
 <h4> ✨I’m looking to collaborate on IT companies taht are looking for Junior grade roles so I can keep learning.
 <h3>💼 IT Recruiter at <a href="https://www.linkedin.com/in/clementina-perez-26b559263/">Clementina Perez</a></h3>
 
